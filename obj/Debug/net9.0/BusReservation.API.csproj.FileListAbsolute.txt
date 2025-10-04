@@ -1,0 +1,401 @@
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.csproj.AssemblyReference.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.AssemblyInfoInputs.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.AssemblyInfo.cs
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.csproj.CoreCompileInputs.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.MvcApplicationPartsAssemblyInfo.cs
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.MvcApplicationPartsAssemblyInfo.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\appsettings.Development.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\appsettings.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.staticwebassets.endpoints.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.exe
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.deps.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.runtimeconfig.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\BusReservation.API.pdb
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Azure.Core.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Azure.Identity.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.ClientModel.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Memory.Data.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\scopedcss\bundle\BusReservation.API.styles.css
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\staticwebassets.build.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\staticwebassets.development.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReser.303F02F2.Up2Date
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\refint\BusReservation.API.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.pdb
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\BusReservation.API.genruntimeconfig.cache
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\obj\Debug\net9.0\ref\BusReservation.API.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Humanizer.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.CodeDom.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\SWS\UB COPY\Bus Backend\BusReservation.API\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\appsettings.Development.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\appsettings.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.staticwebassets.endpoints.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Black.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-BlackItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Bold.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-BoldItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-ExtraBold.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-ExtraLight.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Italic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Light.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-LightItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Medium.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-MediumItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Regular.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-SemiBold.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-Thin.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\Lato-ThinItalic.ttf
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\LatoFont\OFL.txt
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.exe
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.deps.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.runtimeconfig.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BusReservation.API.pdb
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Azure.Core.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Azure.Identity.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BouncyCastle.Cryptography.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\CsvHelper.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Humanizer.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\MailKit.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\MimeKit.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\BouncyCastle.Crypto.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\QuestPDF.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Razorpay.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.ClientModel.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.CodeDom.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Memory.Data.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-arm64\native\libQuestPdfSkia.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-arm64\native\libcrypto.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-arm64\native\libjpeg.so.8
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-arm64\native\libqpdf.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libQuestPdfSkia.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libcrypto.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libjpeg.so.8
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libqpdf.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-x64\native\libQuestPdfSkia.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-x64\native\libcrypto.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-x64\native\libjpeg.so.8
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\linux-x64\native\libqpdf.so
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-arm64\native\libQuestPdfSkia.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-arm64\native\libcrypto.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-arm64\native\libjpeg.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-arm64\native\libqpdf.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-x64\native\libQuestPdfSkia.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-x64\native\libcrypto.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-x64\native\libjpeg.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\osx-x64\native\libqpdf.dylib
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\QuestPdfSkia.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\libgcc_s_seh-1.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\libstdc++-6.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\libwinpthread-1.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x64\native\qpdf.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\QuestPdfSkia.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\libgcc_s_dw2-1.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\libstdc++-6.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\libwinpthread-1.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win-x86\native\qpdf.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.csproj.AssemblyReference.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.AssemblyInfoInputs.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.AssemblyInfo.cs
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.csproj.CoreCompileInputs.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.sourcelink.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\scopedcss\bundle\BusReservation.API.styles.css
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\staticwebassets.build.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\staticwebassets.development.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReser.303F02F2.Up2Date
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\refint\BusReservation.API.dll
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.pdb
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\BusReservation.API.genruntimeconfig.cache
+D:\Coding\Office Project\University Bus\Bus Backend\busreservation.api\obj\Debug\net9.0\ref\BusReservation.API.dll
